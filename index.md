@@ -1,3 +1,2 @@
-- 签到时间 2026-07-12 12:50:39 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
+- 签到时间 2026-07-12 22:40:22 [![签到状态](https://github.com/y377/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y377/189pan/actions/workflows/main.yml)
 - 开始执行帐号1
-- 没有找到href链接
